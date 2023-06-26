@@ -1,0 +1,15 @@
+/*
+Theme Name: Access2.IT Child Theme
+Description: Access2.IT Child Theme
+Author: Access2.IT
+Author URI: https://www.access2.it
+Template: Divi
+Version: 1.1
+*/
+
+@import url("/wp-content/themes/Divi/style.css");
+
+ 
+/* ------------------------------------------------------- */
+@import url("/wp-content/themes/am-child-divi/am-forms.css");
+@import url("/wp-content/themes/am-child-divi/am-custom.css");
