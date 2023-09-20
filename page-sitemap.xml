@@ -2,12 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-21T07:28:45+00:00</lastmod>
+		<lastmod>2023-09-20T11:14:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/pro1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Tender-gids-PRO-2023-24-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/vmbo.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Tender-gids-VMBO-LWOO-2023-24.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Aanvulling.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/11/Werken-bij-Dunamare-kopieren.webp</image:loc>
@@ -128,82 +131,91 @@
 		<loc>/leerlingen/</loc>
 		<lastmod>2022-10-25T12:10:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5430-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5935-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5891-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5781-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5263-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5536-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5865-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5703-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5394-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5846-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5324-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5480-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5572-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5618-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5715-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5467-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5691-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5191-kopie%E2%95%A0%C3%AAren-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5544-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5910-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5231-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5211-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5807-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5506-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5593-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5307-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5842-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5846-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5756-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5324-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5544-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5835-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5891-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5618-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5394-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5715-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5263-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5865-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5572-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5211-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5703-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5732-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5292-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5691-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5275-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5771-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5315-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5605-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5179-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5935-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5807-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5825-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5480-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5528-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
@@ -212,40 +224,31 @@
 			<image:loc>/wp-content/uploads/2017/11/JH_5659-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5506-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5231-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5842-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5430-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5292-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5307-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5275-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5536-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5315-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5910-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5732-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5467-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5605-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5191-kopie%E2%95%A0%C3%AAren-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5756-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5781-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5881-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5835-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5771-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5825-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2016/07/tender-college-techniek.jpg</image:loc>
@@ -299,16 +302,6 @@
 		<lastmod>2023-03-27T14:11:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2016/07/1-9.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/schoolgids/</loc>
-		<lastmod>2023-05-08T11:50:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/pro-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/vmbo.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -389,97 +382,67 @@
 			<image:loc>/wp-content/uploads/2021/02/adv-5-2-2021.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5691-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5231-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5865-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5605-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5807-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5430-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5275-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5659-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5191-kopie%E2%95%A0%C3%AAren-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5846-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5394-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5263-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5506-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5307-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5211-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5891-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5781-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5935-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5572-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5825-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5732-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5618-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5430-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5756-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5659-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5480-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5715-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5835-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5771-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5825-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5506-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5324-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5703-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5315-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5528-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5231-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5544-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5211-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5756-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5263-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5467-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5292-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5572-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5191-kopie%E2%95%A0%C3%AAren-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5835-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5605-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5891-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5881-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5536-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
@@ -488,25 +451,55 @@
 			<image:loc>/wp-content/uploads/2017/11/JH_5179-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5910-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5528-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5703-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5846-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5691-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5807-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5865-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5771-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5593-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5618-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5781-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5881-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5715-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5292-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5394-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/11/JH_5842-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/11/JH_5467-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/JH_5935-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5910-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5275-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5324-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/JH_5544-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -531,10 +524,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/dmr/</loc>
-		<lastmod>2023-07-13T08:04:48+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/ipad/</loc>
 		<lastmod>2023-07-14T07:57:34+00:00</lastmod>
 		<image:image>
@@ -542,10 +531,27 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/dmr/</loc>
+		<lastmod>2023-09-20T07:53:56+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/schoolvakanties/</loc>
-		<lastmod>2023-07-14T07:59:39+00:00</lastmod>
+		<lastmod>2023-09-20T08:16:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Bonaparte-Vakantie-omgeving-en-sport-1024x250-2-300x73.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2016/12/JH_6515-kopie%E2%95%A0%C3%AAren.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/schoolgids/</loc>
+		<lastmod>2023-09-20T11:18:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Tender-gids-PRO-2023-24-.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Tender-gids-VMBO-LWOO-2023-24.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
