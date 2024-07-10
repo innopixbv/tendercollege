@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://tendercollege.nl/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://tendercollege.nl/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2024-07-10T11:44:34+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://tendercollege.nl/3d-flip-book-sitemap.xml</loc>
+		<loc>/3d-flip-book-sitemap.xml</loc>
 		<lastmod>2023-05-08T08:47:37+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
