@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>VMBO met LWOO, combi en praktijkonderwijs</description>
-	<lastBuildDate>Thu, 10 Jul 2025 11:16:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Sep 2025 11:33:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.5.6</generator>
 </channel>
 </rss>

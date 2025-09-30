@@ -15,6 +15,10 @@
   border-color: #ebccd1;
 }
 
+.fb3d-default-page {
+  z-index: 1;
+}
+
 .fb3d-button {
   display: inline-block;
   font-size: 13px;
@@ -277,7 +281,9 @@ table.fb3d-categories h3 {
 }
 
 .fb3d-modal .cmd-close {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
+  font-weight: bolder;
   color: #ccc;
   position: absolute;
   right: 10px;
