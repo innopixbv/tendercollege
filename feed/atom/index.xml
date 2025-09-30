@@ -6,12 +6,12 @@
 	<title type="text">My CMS</title>
 	<subtitle type="text">VMBO met LWOO, combi en praktijkonderwijs</subtitle>
 
-	<updated>2025-07-10T11:16:54Z</updated>
+	<updated>2025-09-30T11:32:26Z</updated>
 
 	<link rel="alternate" type="text/html" href="/" />
 	<id>/feed/atom/</id>
 	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
 
-	<generator uri="https://wordpress.org/" version="6.5.5">WordPress</generator>
+	<generator uri="https://wordpress.org/" version="6.5.6">WordPress</generator>
 <icon>/wp-content/uploads/2016/07/cropped-favicon-32x32.jpg</icon>
 </feed>
