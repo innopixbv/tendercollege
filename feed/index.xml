@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>VMBO met LWOO, combi en praktijkonderwijs</description>
-	<lastBuildDate>Tue, 30 Sep 2025 11:33:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Oct 2025 13:21:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.6</generator>
+	<generator>https://wordpress.org/?v=6.5.7</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/07/cropped-favicon-32x32.jpg</url>
